@@ -1,3 +1,3 @@
-# git_Demo1
+# gir_Demo1
 this is my first time using git
 Author-manoj
